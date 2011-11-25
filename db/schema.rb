@@ -15,7 +15,7 @@ ActiveRecord::Schema.define(:version => 20111125123004) do
 
   create_table "instructions", :force => true do |t|
     t.string   "title"
-    t.string   "text"
+    t.text     "text"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
