@@ -24,12 +24,14 @@ you developed the app.\
 Getting started
 ===============
 
-1. Fork this repository to your own account
+1.  Fork this repository to your own account and clone it.
 
-2. `rake db:migrate`
+2.  `bundle update`
 
-3. `rake db:seed`
+3.  `rake db:migrate`
 
-4. `rails s`
+3.  `rake db:seed`
 
-5. Go to `http://localhost:3000/` for further instructions
+4.  `rails s`
+
+5.  Go to `http://localhost:3000/` for further instructions
