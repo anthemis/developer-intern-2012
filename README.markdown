@@ -1,8 +1,5 @@
-Anthemis Group
-==============
-
-Developer Intern 2012
----------------------
+Anthemis Group: Developer Intern 2012
+=====================================
 
 Welcome to this exciting opportunity to get some real-world developer experience
 working for one of the UK's most innovative financial services companies.
@@ -22,7 +19,7 @@ talk intelligently about your design approach and how you dealt with problems as
 you developed the app.\
 
 Getting started
-===============
+---------------
 
 1.  Fork this repository to your own account and clone it.
 
