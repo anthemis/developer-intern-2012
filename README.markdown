@@ -1,6 +1,8 @@
-== Anthemis Group
+Anthemis Group
+==============
 
-=== Developer Intern 2012
+Developer Intern 2012
+---------------------
 
 Welcome to this exciting opportunity to get some real-world developer experience
 working for one of the UK's most innovative financial services companies.
@@ -29,4 +31,4 @@ you developed the app.\
 
 4. `rails s`
 
-5. Go to http://localhost:3000/ for further instructions
+5. Go to `http://localhost:3000/` for further instructions
