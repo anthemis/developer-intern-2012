@@ -1,4 +1,10 @@
 DeveloperIntern2012::Application.routes.draw do
+  root :to => 'instructions#index'
+
+  resources :people do
+    get :dominic, :on => :collection
+  end
+
   resources :instructions
 
   # The priority is based upon order of creation:
