@@ -21,7 +21,8 @@ You will be able to demonstrate a Rails app that you have developed yourself and
 talk intelligently about your design approach and how you dealt with problems as
 you developed the app.\
 
-== Getting Started
+Getting started
+===============
 
 1. Fork this repository to your own account
 
