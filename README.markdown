@@ -7,7 +7,7 @@ Anthemis Group: Developer Intern 2012
 
 *  There will be additional opportunities to work with our portfolio companies on new financial services applications.
 
-*  This position is for a fixed term of 3 months starting in January 2012. It is a full-time position based in central London with a salary of £250/week. We expect you to be available during normal office hours although we will be as flexible as we can over your existing commitments.
+*  This position is for a fixed term of 3 months starting in January 2012. It is a full-time position based in central London with a salary of Â£250/week. We expect you to be available during normal office hours although we will be as flexible as we can over your existing commitments.
 
 About you
 ---------
